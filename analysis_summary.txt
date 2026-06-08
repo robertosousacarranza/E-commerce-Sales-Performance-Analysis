@@ -1,0 +1,6 @@
+E-COMMERCE ANALYSIS RESULTS
+Transactions: 50,000
+Revenue: $25,157,989.65
+Avg Ticket: $503.16
+Categories: 8
+Countries: 10
